@@ -13,3 +13,8 @@ Data-Pipeline-Development
 "MENTOR": NEELA SANTHOSH
 
 YOU HAVE TO ENTER DESCRPITON OF YOUR TASK(AND IT SHOULD BE LESS THAN 500 WORDS)
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/31b7d1a1-1d82-4575-aed3-4b036d2f0d67)
