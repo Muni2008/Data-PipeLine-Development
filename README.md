@@ -1,17 +1,15 @@
-# CodTech Internship - Task 1: ETL Pipeline (Python Script)
+Data-Pipeline-Development
 
-This project demonstrates an ETL (Extract, Transform, Load) pipeline using the Iris dataset.
+"Company":CODTECH IT SOLUTONS
 
-## Tools Used:
-- Python
-- Pandas
-- Scikit-learn
+"NAME":CHINTHAGINJALA VENKATA MUNIRATHNAM
 
-## Steps:
-1. Extract: Load the Iris dataset using Scikit-learn.
-2. Transform: Scale features and split the dataset.
-3. Load: Save cleaned data to CSV.
+"INTERN ID":CTO4DG1215
 
-## Files Included:
-- `task1_etl_pipeline.py` - The main ETL script
-- `iris_cleaned.csv` - Output of the pipeline (generated on run)
+"DOMAIN":DATA-PIPELINE-DEVELOPMENT
+
+"DURATION":4WEEKS
+
+"MENTOR": NEELA SANTHOSH
+
+YOU HAVE TO ENTER DESCRPITON OF YOUR TASK(AND IT SHOULD BE LESS THAN 500 WORDS)
